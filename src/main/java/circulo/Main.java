@@ -7,7 +7,7 @@ import java.text.DecimalFormat;
  * Método main de la aplicación
  * @see Circulito
  * @author Angel David Garrido González
- * @version 1.1 31/05/2022
+ * @version V1.2 31/05/2022
  */
 public class Main {
     public static void main(String[] args) {

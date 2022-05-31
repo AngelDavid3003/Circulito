@@ -3,7 +3,7 @@ package circulo;
 /**
  * Pruebas de refactorización en NetBeans con la clase Circulito
  * @author Angel David Garrido González
- * @version v1.1 31/05/2022
+ * @version V1.2 31/05/2022
  */
 public class Circulito {
     /**

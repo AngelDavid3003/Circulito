@@ -15,7 +15,7 @@ import static org.junit.jupiter.api.Assertions.*;
 /**
  * Pruebas test de los métodos de la clase Circulito
  * @author Angel David Garrido González
- * @version 1.1 31/05/2022
+ * @version V1.2 31/05/2022
  */
 public class CirculoTest {
     
